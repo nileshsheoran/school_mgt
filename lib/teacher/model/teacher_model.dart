@@ -1,8 +1,8 @@
 class Teacher{
   int id;
-  String name;
+  String firstName;
   int salary;
 
-  Teacher(this.id,this.name,this.salary);
+  Teacher(this.id,this.firstName,this.salary);
 
 }
